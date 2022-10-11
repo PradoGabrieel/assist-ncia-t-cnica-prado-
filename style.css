@@ -96,8 +96,7 @@ footer {
 }
 
 main {
-	width: 940px;
-	margin: 0 auto;
+	
 }
 
 form {
@@ -210,6 +209,7 @@ td, th {
 .beneficios {
 	padding: 3em 0;
 	background: #3251b9;
+	
 }
 
 .conteudo-beneficios {
